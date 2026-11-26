@@ -1,0 +1,6 @@
+city_slug,rows,rows_expected,completeness_ok,dup_dates,null_cells,tmax_lt_tmin,tmax_out_of_range,tmax_min,tmax_max,date_min,date_max
+jakarta,12784,12784,True,0,0,0,0,24.4,35.0,1991-01-01,2025-12-31
+bandung,12784,12784,True,0,0,0,0,21.1,32.8,1991-01-01,2025-12-31
+surabaya,12784,12784,True,0,0,0,0,25.5,36.9,1991-01-01,2025-12-31
+makassar,12784,12784,True,0,0,0,0,24.2,34.1,1991-01-01,2025-12-31
+medan,12784,12784,True,0,0,0,0,23.5,33.7,1991-01-01,2025-12-31
