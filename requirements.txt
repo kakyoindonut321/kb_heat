@@ -13,3 +13,4 @@ pymannkendall
 scikit-learn
 matplotlib
 scikit-learn
+python-dotenv
