@@ -1,0 +1,6 @@
+﻿city_id,city_code,city_name,province,geo_type,req_latitude,req_longitude,grid_latitude,grid_longitude,elevation_m,timezone
+1,jakarta,Jakarta,DKI Jakarta,pesisir,-6.208800,106.845600,-6.199997,106.800020,12.0,Asia/Jakarta
+2,bandung,Bandung,Jawa Barat,dataran tinggi,-6.917500,107.619100,-6.900002,107.600006,703.0,Asia/Jakarta
+3,surabaya,Surabaya,Jawa Timur,pesisir,-7.257500,112.752100,-7.299995,112.800020,8.0,Asia/Jakarta
+4,makassar,Makassar,Sulawesi Selatan,pesisir,-5.147700,119.432700,-5.099999,119.500000,5.0,Asia/Makassar
+5,medan,Medan,Sumatera Utara,dataran rendah,3.595200,98.672200,3.599999,98.700010,26.0,Asia/Jakarta
