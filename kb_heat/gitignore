@@ -1,0 +1,22 @@
+# Rahasia
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Artefak lokal
+*.log
+.DS_Store
+Thumbs.db
+~$*.pbix
+*.bak
+
+# Data mentah besar dapat di-regenerate lewat etl_fetch.py.
+# Hapus baris di bawah jika dosen meminta data ikut di repo.
+# data/raw/weather_daily_*.csv

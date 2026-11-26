@@ -1,0 +1,14 @@
+# Terverifikasi di lingkungan tim (Windows, Python 3.11)
+pandas==3.0.5
+numpy==2.4.6
+psycopg2-binary==2.9.13
+
+# Dipakai etl_fetch.py: sesuaikan dengan import di skrip Anda
+requests
+
+# Tahap statistik dan ML (versi belum dikunci; kunci setelah kode berjalan)
+scipy
+statsmodels
+pymannkendall
+scikit-learn
+matplotlib
