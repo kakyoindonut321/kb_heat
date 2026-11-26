@@ -1,0 +1,181 @@
+city_name,month,enso_phase,n_hari,n_tahun,pct_ekstrem
+Bandung,1,El Nino,372,12,0.00
+Bandung,1,La Nina,434,14,0.00
+Bandung,1,Netral,279,9,0.00
+Bandung,2,El Nino,312,11,0.32
+Bandung,2,La Nina,340,12,0.00
+Bandung,2,Netral,337,12,0.00
+Bandung,3,El Nino,310,10,0.00
+Bandung,3,La Nina,310,10,0.00
+Bandung,3,Netral,465,15,0.00
+Bandung,4,El Nino,210,7,0.00
+Bandung,4,La Nina,180,6,0.00
+Bandung,4,Netral,660,22,0.00
+Bandung,5,El Nino,248,8,0.00
+Bandung,5,La Nina,155,5,0.00
+Bandung,5,Netral,682,22,0.00
+Bandung,6,El Nino,240,8,1.25
+Bandung,6,La Nina,150,5,0.00
+Bandung,6,Netral,660,22,0.15
+Bandung,7,El Nino,186,6,3.23
+Bandung,7,La Nina,186,6,0.00
+Bandung,7,Netral,713,23,3.51
+Bandung,8,El Nino,217,7,17.05
+Bandung,8,La Nina,248,8,3.63
+Bandung,8,Netral,620,20,15.48
+Bandung,9,El Nino,300,10,41.67
+Bandung,9,La Nina,270,9,17.04
+Bandung,9,Netral,480,16,19.38
+Bandung,10,El Nino,372,12,46.77
+Bandung,10,La Nina,372,12,2.42
+Bandung,10,Netral,341,11,4.69
+Bandung,11,El Nino,360,12,11.39
+Bandung,11,La Nina,450,15,0.22
+Bandung,11,Netral,240,8,0.42
+Bandung,12,El Nino,372,12,0.00
+Bandung,12,La Nina,434,14,0.00
+Bandung,12,Netral,279,9,0.00
+Jakarta,1,El Nino,372,12,0.27
+Jakarta,1,La Nina,434,14,0.00
+Jakarta,1,Netral,279,9,0.00
+Jakarta,2,El Nino,312,11,0.00
+Jakarta,2,La Nina,340,12,0.00
+Jakarta,2,Netral,337,12,0.00
+Jakarta,3,El Nino,310,10,0.00
+Jakarta,3,La Nina,310,10,0.00
+Jakarta,3,Netral,465,15,0.00
+Jakarta,4,El Nino,210,7,0.00
+Jakarta,4,La Nina,180,6,0.00
+Jakarta,4,Netral,660,22,0.00
+Jakarta,5,El Nino,248,8,0.00
+Jakarta,5,La Nina,155,5,0.00
+Jakarta,5,Netral,682,22,0.00
+Jakarta,6,El Nino,240,8,0.42
+Jakarta,6,La Nina,150,5,0.00
+Jakarta,6,Netral,660,22,0.00
+Jakarta,7,El Nino,186,6,0.54
+Jakarta,7,La Nina,186,6,0.00
+Jakarta,7,Netral,713,23,0.28
+Jakarta,8,El Nino,217,7,9.22
+Jakarta,8,La Nina,248,8,1.61
+Jakarta,8,Netral,620,20,2.90
+Jakarta,9,El Nino,300,10,43.67
+Jakarta,9,La Nina,270,9,14.44
+Jakarta,9,Netral,480,16,20.21
+Jakarta,10,El Nino,372,12,61.29
+Jakarta,10,La Nina,372,12,5.65
+Jakarta,10,Netral,341,11,14.66
+Jakarta,11,El Nino,360,12,18.33
+Jakarta,11,La Nina,450,15,1.33
+Jakarta,11,Netral,240,8,1.67
+Jakarta,12,El Nino,372,12,3.49
+Jakarta,12,La Nina,434,14,0.00
+Jakarta,12,Netral,279,9,0.00
+Makassar,1,El Nino,372,12,0.00
+Makassar,1,La Nina,434,14,0.00
+Makassar,1,Netral,279,9,0.00
+Makassar,2,El Nino,312,11,0.00
+Makassar,2,La Nina,340,12,0.00
+Makassar,2,Netral,337,12,0.00
+Makassar,3,El Nino,310,10,0.00
+Makassar,3,La Nina,310,10,0.00
+Makassar,3,Netral,465,15,0.00
+Makassar,4,El Nino,210,7,0.48
+Makassar,4,La Nina,180,6,0.00
+Makassar,4,Netral,660,22,0.00
+Makassar,5,El Nino,248,8,2.82
+Makassar,5,La Nina,155,5,0.00
+Makassar,5,Netral,682,22,0.73
+Makassar,6,El Nino,240,8,1.25
+Makassar,6,La Nina,150,5,0.00
+Makassar,6,Netral,660,22,0.91
+Makassar,7,El Nino,186,6,3.23
+Makassar,7,La Nina,186,6,0.00
+Makassar,7,Netral,713,23,0.28
+Makassar,8,El Nino,217,7,17.51
+Makassar,8,La Nina,248,8,2.82
+Makassar,8,Netral,620,20,7.74
+Makassar,9,El Nino,300,10,51.33
+Makassar,9,La Nina,270,9,10.37
+Makassar,9,Netral,480,16,21.88
+Makassar,10,El Nino,372,12,62.90
+Makassar,10,La Nina,372,12,2.69
+Makassar,10,Netral,341,11,9.38
+Makassar,11,El Nino,360,12,8.06
+Makassar,11,La Nina,450,15,0.22
+Makassar,11,Netral,240,8,0.42
+Makassar,12,El Nino,372,12,0.00
+Makassar,12,La Nina,434,14,0.00
+Makassar,12,Netral,279,9,0.00
+Medan,1,El Nino,372,12,0.54
+Medan,1,La Nina,434,14,0.00
+Medan,1,Netral,279,9,0.00
+Medan,2,El Nino,312,11,1.92
+Medan,2,La Nina,340,12,0.00
+Medan,2,Netral,337,12,1.19
+Medan,3,El Nino,310,10,17.74
+Medan,3,La Nina,310,10,1.61
+Medan,3,Netral,465,15,5.59
+Medan,4,El Nino,210,7,28.57
+Medan,4,La Nina,180,6,1.11
+Medan,4,Netral,660,22,3.79
+Medan,5,El Nino,248,8,12.90
+Medan,5,La Nina,155,5,7.74
+Medan,5,Netral,682,22,10.85
+Medan,6,El Nino,240,8,10.83
+Medan,6,La Nina,150,5,1.33
+Medan,6,Netral,660,22,12.88
+Medan,7,El Nino,186,6,8.60
+Medan,7,La Nina,186,6,8.60
+Medan,7,Netral,713,23,13.60
+Medan,8,El Nino,217,7,7.37
+Medan,8,La Nina,248,8,2.42
+Medan,8,Netral,620,20,11.29
+Medan,9,El Nino,300,10,1.00
+Medan,9,La Nina,270,9,1.11
+Medan,9,Netral,480,16,2.71
+Medan,10,El Nino,372,12,0.00
+Medan,10,La Nina,372,12,2.96
+Medan,10,Netral,341,11,1.76
+Medan,11,El Nino,360,12,0.00
+Medan,11,La Nina,450,15,0.00
+Medan,11,Netral,240,8,0.42
+Medan,12,El Nino,372,12,0.00
+Medan,12,La Nina,434,14,0.00
+Medan,12,Netral,279,9,0.00
+Surabaya,1,El Nino,372,12,0.00
+Surabaya,1,La Nina,434,14,0.00
+Surabaya,1,Netral,279,9,0.00
+Surabaya,2,El Nino,312,11,0.00
+Surabaya,2,La Nina,340,12,0.00
+Surabaya,2,Netral,337,12,0.00
+Surabaya,3,El Nino,310,10,0.00
+Surabaya,3,La Nina,310,10,0.00
+Surabaya,3,Netral,465,15,0.00
+Surabaya,4,El Nino,210,7,0.00
+Surabaya,4,La Nina,180,6,0.00
+Surabaya,4,Netral,660,22,0.00
+Surabaya,5,El Nino,248,8,0.00
+Surabaya,5,La Nina,155,5,0.00
+Surabaya,5,Netral,682,22,0.00
+Surabaya,6,El Nino,240,8,0.00
+Surabaya,6,La Nina,150,5,0.00
+Surabaya,6,Netral,660,22,0.00
+Surabaya,7,El Nino,186,6,0.00
+Surabaya,7,La Nina,186,6,0.00
+Surabaya,7,Netral,713,23,0.00
+Surabaya,8,El Nino,217,7,0.00
+Surabaya,8,La Nina,248,8,0.00
+Surabaya,8,Netral,620,20,0.48
+Surabaya,9,El Nino,300,10,17.00
+Surabaya,9,La Nina,270,9,12.22
+Surabaya,9,Netral,480,16,17.29
+Surabaya,10,El Nino,372,12,70.16
+Surabaya,10,La Nina,372,12,11.83
+Surabaya,10,Netral,341,11,26.10
+Surabaya,11,El Nino,360,12,32.50
+Surabaya,11,La Nina,450,15,0.44
+Surabaya,11,Netral,240,8,7.08
+Surabaya,12,El Nino,372,12,0.81
+Surabaya,12,La Nina,434,14,0.00
+Surabaya,12,Netral,279,9,0.00

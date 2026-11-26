@@ -1,0 +1,11 @@
+city_name,analysis_period,n_hari,tmax_rata2,n_ekstrem,pct_ekstrem
+Bandung,baseline,10958,26.85,601,5.48
+Bandung,uji,1826,26.94,83,4.55
+Jakarta,baseline,10958,29.77,589,5.38
+Jakarta,uji,1826,29.95,113,6.19
+Makassar,baseline,10958,28.58,591,5.39
+Makassar,uji,1826,28.87,126,6.90
+Medan,baseline,10958,29.49,571,5.21
+Medan,uji,1826,29.61,103,5.64
+Surabaya,baseline,10958,30.94,603,5.50
+Surabaya,uji,1826,31.04,100,5.48

@@ -1,0 +1,17 @@
+kota,periode,n_ekstrem
+Bandung,baseline,601
+Bandung,uji,83
+Bandung,semua periode,684
+Jakarta,baseline,589
+Jakarta,uji,113
+Jakarta,semua periode,702
+Makassar,baseline,591
+Makassar,uji,126
+Makassar,semua periode,717
+Medan,baseline,571
+Medan,uji,103
+Medan,semua periode,674
+Surabaya,baseline,603
+Surabaya,uji,100
+Surabaya,semua periode,703
+SEMUA KOTA,semua periode,3480

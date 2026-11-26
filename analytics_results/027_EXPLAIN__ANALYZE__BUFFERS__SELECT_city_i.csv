@@ -1,0 +1,12 @@
+QUERY PLAN
+GroupAggregate  (cost=0.29..328.67 rows=5 width=12) (actual time=0.040..0.120 rows=5.00 loops=1)
+  Group Key: city_id
+  Buffers: shared hit=28
+  ->  Index Scan using fact_weather_daily_pkey on fact_weather_daily  (cost=0.29..327.74 rows=176 width=6) (actual time=0.015..0.075 rows=305.00 loops=1)
+        Index Cond: ((date_id >= 20230901) AND (date_id <= 20231031))
+        Index Searches: 7
+        Buffers: shared hit=28
+Planning:
+  Buffers: shared hit=16 read=1
+Planning Time: 0.669 ms
+Execution Time: 0.140 ms

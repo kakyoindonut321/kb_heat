@@ -1,0 +1,3 @@
+uji,statistik,p,n_tahun
+Friedman (blok=tahun),2.2195488721804155,0.6954519224249305,35
+Kruskal-Wallis (abaikan pasangan tahun),0.7799577197384355,0.9411146375578011,35

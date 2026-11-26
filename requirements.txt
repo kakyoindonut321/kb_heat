@@ -12,3 +12,4 @@ statsmodels
 pymannkendall
 scikit-learn
 matplotlib
+scikit-learn
